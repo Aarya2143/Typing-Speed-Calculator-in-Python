@@ -1,4 +1,4 @@
-# Typing Speed Calculator in Python
+# CodeClauseInternship_Typing Speed Calculator in Python
 ## Code:
 
 import time
